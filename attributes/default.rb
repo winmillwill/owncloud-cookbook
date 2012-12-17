@@ -1,0 +1,8 @@
+default["owncloud"]["admin_login"] = "admin"
+default["owncloud"]["password_password"] = "password"
+default["owncloud"]["data_directory"] = "/var/www/owncloud/data"
+default["owncloud"]["db_type"] = "mysql"
+default["owncloud"]["db_name"] = "owncloud"
+default["owncloud"]["db_table_prefix"] = "oc_"
+default["owncloud"]["db_host"] = "localhost"
+default["owncloud"]["db_user"] = "owncloud"
